@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "525752154223",
+    "firebase_url": "https://kreditmelatiapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "kreditmelatiapp",
+    "storage_bucket": "kreditmelatiapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525752154223:android:2ab230941443cff6a4b59a",
+        "android_client_info": {
+          "package_name": "com.eyy.kreditmelatiap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6IXPzSdYHMiaJKWmnJVaaDysIHuCVUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525752154223:android:3082aa5ba8c1890aa4b59a",
+        "android_client_info": {
+          "package_name": "com.eyy.kreditmelatiapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6IXPzSdYHMiaJKWmnJVaaDysIHuCVUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525752154223:android:27e67961736bd97da4b59a",
+        "android_client_info": {
+          "package_name": "com.eyy.kreditmelatiappp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj6IXPzSdYHMiaJKWmnJVaaDysIHuCVUc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color> <!-- Ungu tua -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Ungu lebih gelap -->
+    <color name="colorAccent">#03DAC5</color> <!-- Warna hijau kebiruan (teal) -->
+    <color name="white">#FFFFFF</color> <!-- Putih -->
+</resources>

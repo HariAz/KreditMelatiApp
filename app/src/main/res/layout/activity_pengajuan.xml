@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".PengajuanActivity">
+
+    <EditText
+        android:id="@+id/etNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Nama Lengkap" />
+
+    <EditText
+        android:id="@+id/etJumlahPinjaman"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Jumlah Pinjaman (Min. Rp500.000)"
+        android:inputType="numberDecimal"
+        android:layout_marginTop="8dp" />
+
+    <Spinner
+        android:id="@+id/spinnerTenor"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/btnAjukan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ajukan"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
